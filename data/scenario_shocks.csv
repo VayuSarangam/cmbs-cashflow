@@ -1,0 +1,5 @@
+DealID,Scenario,CDR_Annual,CPR_Annual,Severity,NOI_Growth_Annual,CapRate_Shock_bps,RateShock_bps,SpreadShock_bps
+CMBS_NEW_AEOYEE,Base,0.02,0.08,0.4,0.02,0,0,0
+CMBS_NEW_AEOYEE,Stress_Credit,0.06,0.04,0.5,-0.02,100,0,150
+CMBS_NEW_AEOYEE,Stress_Rates,0.03,0.06,0.45,0.0,50,200,75
+CMBS_NEW_AEOYEE,Stress_Sev,0.04,0.05,0.6,-0.03,150,0,100

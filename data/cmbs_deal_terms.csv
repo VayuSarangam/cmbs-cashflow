@@ -1,0 +1,2 @@
+DealID,CutoffDate,FirstPaymentDate,LegalFinalMaturityDate,ProjectionHorizonMonths,DayCountConvention,ServicingFeeBps,SpecialServicingFeeBps,RecoveryLagMonths
+CMBS_NEW_AEOYEE,2026-01-31,2026-02-28,2036-01-31,120,30/360,25.0,50.0,6
