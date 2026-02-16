@@ -1,0 +1,2 @@
+DealID,PrincipalRule,LossRule,InterestShortfallRule
+DEAL_001,SEQUENTIAL,REVERSE_SEQUENTIAL,CARRY_FORWARD

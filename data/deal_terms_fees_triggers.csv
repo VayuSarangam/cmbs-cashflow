@@ -1,0 +1,2 @@
+DealID,ServicerFeeBps,TrusteeFeeMonthly,AdminFeeMonthly,OCTriggerOn,OCThreshold,ICTriggerOn,ICThreshold
+DEAL_001,10,15000,5000,N,0.00,N,0.00
